@@ -1,0 +1,64 @@
+{
+    "tables": {
+        "df": {
+            "columns": {
+                "hours_machine": {
+                    "sdtype": "numerical"
+                },
+                "idle_percentage": {
+                    "sdtype": "numerical"
+                },
+                "operating_percentage": {
+                    "sdtype": "numerical"
+                },
+                "total_fuel": {
+                    "sdtype": "numerical"
+                },
+                "gal_hour": {
+                    "sdtype": "numerical"
+                },
+                "shovel": {
+                    "sdtype": "categorical"
+                },
+                "performance": {
+                    "sdtype": "numerical"
+                },
+                "coal_prod": {
+                    "sdtype": "numerical"
+                },
+                "waste_prod": {
+                    "sdtype": "numerical"
+                },
+                "haul_truck_15.0m3": {
+                    "sdtype": "categorical"
+                },
+                "haul_truck_24.0m3": {
+                    "sdtype": "categorical"
+                },
+                "haul_truck_25.0m3": {
+                    "sdtype": "categorical"
+                },
+                "haul_truck_27.0m3": {
+                    "sdtype": "categorical"
+                },
+                "truck_trips_15.0m3": {
+                    "sdtype": "numerical"
+                },
+                "truck_trips_24.0m3": {
+                    "sdtype": "numerical"
+                },
+                "truck_trips_25.0m3": {
+                    "sdtype": "numerical"
+                },
+                "truck_trips_27.0m3": {
+                    "sdtype": "numerical"
+                },
+                "rainfall_mm": {
+                    "sdtype": "numerical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}
